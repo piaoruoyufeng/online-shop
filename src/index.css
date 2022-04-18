@@ -1,0 +1,24 @@
+
+.products-container{
+    background: #0c8e60;
+    border: 1px solid #ddd;
+    padding: 10px;
+}
+.cart-container{
+    background: #93994f;
+    border: 1px solid #ddd;
+    padding: 10px;
+}
+.add-btn{
+    margin-left: 30px;
+    background: red;
+}
+.submit-btn{
+    margin-top: 20px;
+    width: 200px;
+    height: 30px;
+    line-height: 30px;
+    cursor: pointer;
+    font-size: 14px;
+    background: rgb(211, 186, 182);
+}
